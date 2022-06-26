@@ -1,0 +1,17 @@
+.link:hover img{
+    transform: scale(1.1);
+}
+
+
+
+@media (min-width: 1024px) {
+    .link:hover header{
+        transform: translateY(-0.5rem);
+        color: #ffff;
+    }
+}
+
+.link:hover header{
+    transform: translateY(-0.8rem);
+    color: #ffff;
+}
